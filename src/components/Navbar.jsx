@@ -32,7 +32,7 @@ export default function Navbar({ onToggleSidebar }) {
 
             <div className="flex items-center gap-2 ml-1">
               <span className="text-xl">🎓</span>
-              <span className="font-semibold text-base md:text-lg text-gray-900">IMUMATE</span>
+              <span className="font-semibold text-base md:text-lg text-gray-900">IMUMock</span>
             </div>
           </div>
 
