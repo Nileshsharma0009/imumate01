@@ -148,7 +148,7 @@ export default function ResultPage() {
             />
 
             <div className="header-top">
-              <h1>IMUMATE Mock Test -Result</h1> 
+              <h1>IMUMock Mock Test -Result</h1> 
             </div>
 
             <div className="header-section">
