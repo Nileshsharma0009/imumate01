@@ -71,7 +71,7 @@ const First = () => {
         <nav className="flex items-center justify-between max-w-7xl mx-auto">
           <div className="flex items-center space-x-2">
             <Anchor className="w-7 h-7 text-indigo-700" strokeWidth={2.5} />
-            <span className="text-2xl font-extrabold tracking-tight text-gray-800">IMUMATE</span>
+            <span className="text-2xl font-extrabold tracking-tight text-gray-800">IMUMock</span>
           </div>
 
           <div className="hidden md:flex space-x-8 text-gray-600 font-medium text-lg">
