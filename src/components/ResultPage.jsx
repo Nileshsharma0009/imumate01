@@ -248,7 +248,7 @@ export default function ResultPage() {
             </div>
 
             <div className="test-title">🎉 Thank You for Taking the Test!</div>
-            <div className="footer-section">Powered by IMUMATE — All Rights Reserved.</div>
+            <div className="footer-section">Powered by IMUmock — All Rights Reserved.</div>
           </div>
         </div>
 
